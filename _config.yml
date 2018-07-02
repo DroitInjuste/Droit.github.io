@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: droitinjuste@gmail.com
 description: "The light that you left me will everglow."
 keyword: "Droit, Droit's Blog, 峻涛的博客,王峻涛, Droit_Injuste, DroitInjuste, iOS, Apple, iPhone, Mac"
-url: "https://Droit.github.io"          # your host, for absolute URL
+url: "https://DroitInjuste.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/DroitInjuste/Droit.github.io.git" # you code repository
+github_repo: "https://github.com/DroitInjuste/DroitInjuste.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
